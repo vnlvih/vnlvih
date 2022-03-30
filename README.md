@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vnlvih
 - 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently working with Data Science
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me https://www.linkedin.com/in/vivianelimads/
 
